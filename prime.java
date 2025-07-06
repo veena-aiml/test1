@@ -26,6 +26,7 @@ break;
 if(flag==0)
 {
 System.out.println(n+"is prime");
+  System.out.println("it is correct answer");
 }
 }
 }
